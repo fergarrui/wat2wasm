@@ -2,4 +2,4 @@
 
 Stupid converter
 
-Online version: https://fergarrui.github.io/wat2wasm/
+Online version: https://fergarrui.github.io/wat2wasm/index.html
